@@ -5,8 +5,8 @@
 
 # Prodecure
 - Compile the code using the provided `MakeFile`
-- Compress files using the command `./uvcompress < input.txt > compressed.Z
-- Decompress files using the command `compress -d < compressed.Z > decompressed.txt
+- Compress files using the command `./uvcompress < input.txt > compressed.Z`
+- Decompress files using the command `compress -d < compressed.Z > decompressed.txt`
 
 # Features
 - Produced bitstream is compatible with the `compress -d` command
